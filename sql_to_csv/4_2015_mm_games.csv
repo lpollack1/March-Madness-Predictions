@@ -1,0 +1,557 @@
+ID,WINNER_CLUSTER,LOSER_CLUSTER,WINNER_TEAM,LOSER_TEAM,GAMEDAY,SEASON
+339103,0,1,Stephen F. Austin,Northwestern St.,2015-03-05,2015
+339054,0,1,Utah,Washington St.,2015-03-05,2015
+339090,0,2,Wisconsin,Minnesota,2015-03-05,2015
+339087,0,3,Louisiana Tech,Southern Miss,2015-03-05,2015
+339095,0,3,North Carolina Central,North Carolina A&T,2015-03-05,2015
+339098,0,3,Old Dominion,Marshall,2015-03-05,2015
+339070,0,3,Temple,East Carolina,2015-03-05,2015
+339064,0,3,UC Irvine,Cal St. Fullerton,2015-03-05,2015
+339105,0,3,UTEP,North Texas,2015-03-05,2015
+339055,0,4,Arizona,California,2015-03-05,2015
+339101,0,4,Arkansas,South Carolina,2015-03-05,2015
+339086,0,4,Georgia St.,Louisiana Monroe,2015-03-05,2015
+339102,1,2,Southern Utah,Sacramento St.,2015-03-05,2015
+339079,1,3,Incarnate Word,Abilene Christian,2015-03-05,2015
+339069,2,0,Davidson,VCU,2015-03-05,2015
+339066,2,1,Colgate,Navy,2015-03-05,2015
+339081,2,1,Lafayette,Boston University,2015-03-05,2015
+339096,2,1,North Florida,Lipscomb,2015-03-05,2015
+339062,2,3,Bucknell,Holy Cross,2015-03-05,2015
+339078,2,3,Eastern Washington,Idaho St.,2015-03-05,2015
+339063,2,3,UC Davis,UC Riverside,2015-03-05,2015
+339083,2,4,American,Lehigh,2015-03-05,2015
+339059,2,4,Belmont,Eastern Illinois,2015-03-05,2015
+339061,3,1,Bradley,Drake,2015-03-05,2015
+339109,3,1,Weber St.,Idaho,2015-03-05,2015
+339056,3,3,Appalachian St.,Texas St.,2015-03-05,2015
+339060,3,3,Bethune Cookman,South Carolina St.,2015-03-05,2015
+339071,3,3,Florida A&M,Savannah St.,2015-03-05,2015
+339080,3,3,Jackson St.,Alabama A&M,2015-03-05,2015
+339093,3,3,New Orleans,Southeastern Louisiana,2015-03-05,2015
+339094,3,3,Nicholls St.,Central Arkansas,2015-03-05,2015
+339106,3,3,Rice,UTSA,2015-03-05,2015
+339100,3,3,Siena,Niagara,2015-03-05,2015
+339058,3,3,South Alabama,Arkansas St.,2015-03-05,2015
+339099,3,3,Southern,Prairie View A&M,2015-03-05,2015
+339091,3,3,Southern Illinois,Missouri St.,2015-03-05,2015
+339074,3,4,FIU,Middle Tennessee,2015-03-05,2015
+339072,3,4,Florida Atlantic,UAB,2015-03-05,2015
+339088,3,4,Marist,Quinnipiac,2015-03-05,2015
+339057,4,0,Arizona St.,Stanford,2015-03-05,2015
+339067,4,0,Memphis,Connecticut,2015-03-05,2015
+339068,4,1,Delaware St.,Coppin St.,2015-03-05,2015
+339097,4,1,Northern Arizona,Portland St.,2015-03-05,2015
+339092,4,2,Morehead St.,Tennessee Martin,2015-03-05,2015
+339065,4,2,Western Kentucky,Charlotte,2015-03-05,2015
+339076,4,3,Alabama St.,Grambling St.,2015-03-05,2015
+339084,4,3,Long Beach St.,Cal St. Northridge,2015-03-05,2015
+339085,4,3,Louisiana Lafayette,Arkansas Little Rock,2015-03-05,2015
+339089,4,3,Maryland Eastern Shore,Morgan St.,2015-03-05,2015
+553593,4,3,Saint Peter's,Fairfield,2015-03-05,2015
+339082,4,3,Sam Houston St.,Lamar,2015-03-05,2015
+339104,4,3,Texas A&M Corpus Chris,Houston Baptist,2015-03-05,2015
+339107,4,3,Texas Southern,Alcorn St.,2015-03-05,2015
+339108,4,4,Colorado,Washington,2015-03-05,2015
+339075,4,4,Georgia Southern,UT Arlington,2015-03-05,2015
+339077,4,4,Norfolk St.,Hampton,2015-03-05,2015
+339073,4,4,USC Upstate,Florida Gulf Coast,2015-03-05,2015
+339113,0,3,Northern Iowa,Bradley,2015-03-06,2015
+339138,0,3,Wichita St.,Southern Illinois,2015-03-06,2015
+339110,0,4,Baylor,Texas Tech,2015-03-06,2015
+339114,0,4,Buffalo,Bowling Green,2015-03-06,2015
+339131,0,4,Murray St.,Morehead St.,2015-03-06,2015
+553595,1,1,Ohio,Miami OH,2015-03-06,2015
+339124,1,2,Gardner Webb,High Point,2015-03-06,2015
+339112,2,2,Belmont,Eastern Kentucky,2015-03-06,2015
+339139,2,2,Western Michigan,Central Michigan,2015-03-06,2015
+339136,2,3,Princeton,Cornell,2015-03-06,2015
+553594,2,4,Loyola Chicago,Indiana St.,2015-03-06,2015
+339116,3,1,Furman,The Citadel,2015-03-06,2015
+339115,3,1,Longwood,Charleston Southern,2015-03-06,2015
+339126,3,2,Illinois Chicago,Oakland,2015-03-06,2015
+339130,3,3,Arkansas Pine Bluff,Mississippi Valley St.,2015-03-06,2015
+339119,3,3,College of Charleston,Drexel,2015-03-06,2015
+339122,3,3,Elon,Towson,2015-03-06,2015
+339111,3,3,Northern Illinois,Ball St.,2015-03-06,2015
+339129,3,3,Santa Clara,Loyola Marymount,2015-03-06,2015
+339132,3,3,UNC Greensboro,Samford,2015-03-06,2015
+339135,3,4,Penn,Columbia,2015-03-06,2015
+339117,4,1,Cleveland St.,Detroit,2015-03-06,2015
+339121,4,2,Eastern Michigan,Toledo,2015-03-06,2015
+339123,4,2,Illinois St.,Evansville,2015-03-06,2015
+339118,4,3,Coastal Carolina,UNC Asheville,2015-03-06,2015
+339120,4,3,Dartmouth,Brown,2015-03-06,2015
+339134,4,3,San Francisco,Pacific,2015-03-06,2015
+339128,4,4,Kent St.,Akron,2015-03-06,2015
+339137,4,4,Winthrop,Radford,2015-03-06,2015
+339125,4,4,Yale,Harvard,2015-03-06,2015
+339151,0,0,Arizona,Stanford,2015-03-07,2015
+339218,0,0,Butler,Providence,2015-03-07,2015
+339142,0,0,Duke,North Carolina,2015-03-07,2015
+339157,0,0,LSU,Arkansas,2015-03-07,2015
+339143,0,0,Louisville,Virginia,2015-03-07,2015
+339140,0,0,Oklahoma,Kansas,2015-03-07,2015
+339148,0,0,Purdue,Illinois,2015-03-07,2015
+339230,0,0,Temple,Connecticut,2015-03-07,2015
+553596,0,0,Villanova,St. John's,2015-03-07,2015
+339238,0,2,Colorado St.,Utah St.,2015-03-07,2015
+339155,0,2,Iowa,Northwestern,2015-03-07,2015
+553597,0,2,Miami FL,Virginia Tech,2015-03-07,2015
+339141,0,2,Michigan St.,Indiana,2015-03-07,2015
+553598,0,2,Northern Iowa,Loyola Chicago,2015-03-07,2015
+339163,0,3,BYU,Santa Clara,2015-03-07,2015
+339161,0,3,Boise St.,Fresno St.,2015-03-07,2015
+339182,0,3,George Washington,UMass Lowell,2015-03-07,2015
+339219,0,3,Richmond,Saint Louis,2015-03-07,2015
+339221,0,3,San Diego St.,Nevada,2015-03-07,2015
+339224,0,3,South Dakota St.,Western Illinois,2015-03-07,2015
+339234,0,3,UTEP,Rice,2015-03-07,2015
+339241,0,3,VCU,George Mason,2015-03-07,2015
+339207,0,3,Wofford,UNC Greensboro,2015-03-07,2015
+339182,0,4,George Washington,Massachusetts,2015-03-07,2015
+339152,0,4,Georgetown,Seton Hall,2015-03-07,2015
+339159,0,4,Georgia,Auburn,2015-03-07,2015
+339183,0,4,Georgia St.,Georgia Southern,2015-03-07,2015
+339184,0,4,Gonzaga,San Francisco,2015-03-07,2015
+339153,0,4,Iowa St.,TCU,2015-03-07,2015
+339146,0,4,Kentucky,Florida,2015-03-07,2015
+339208,0,4,North Carolina St.,Syracuse,2015-03-07,2015
+339212,0,4,Notre Dame,Clemson,2015-03-07,2015
+339213,0,4,Old Dominion,Western Kentucky,2015-03-07,2015
+339229,0,4,Stephen F. Austin,Sam Houston St.,2015-03-07,2015
+339232,0,4,Texas,Kansas St.,2015-03-07,2015
+339240,0,4,Valparaiso,Cleveland St.,2015-03-07,2015
+339202,0,4,Vanderbilt,Mississippi,2015-03-07,2015
+339145,0,4,Xavier,Creighton,2015-03-07,2015
+339210,1,1,Northern Colorado,North Dakota,2015-03-07,2015
+339227,1,1,Portland St.,Southern Utah,2015-03-07,2015
+339211,1,3,Northwestern St.,New Orleans,2015-03-07,2015
+339186,1,4,Grand Canyon,Seattle,2015-03-07,2015
+339242,1,4,Washington St.,Colorado,2015-03-07,2015
+339160,2,0,Belmont,Murray St.,2015-03-07,2015
+339165,2,0,UC Davis,UC Irvine,2015-03-07,2015
+339176,2,1,Davidson,Duquesne,2015-03-07,2015
+339175,2,2,North Dakota St.,Denver,2015-03-07,2015
+339169,2,3,Charlotte,Marshall,2015-03-07,2015
+339243,2,3,Eastern Washington,Weber St.,2015-03-07,2015
+339193,2,3,Iona,Siena,2015-03-07,2015
+339201,2,3,Michigan,Rutgers,2015-03-07,2015
+339204,2,3,Montana,Montana St.,2015-03-07,2015
+339174,2,3,Northeastern,Delaware,2015-03-07,2015
+339178,2,3,William & Mary,Elon,2015-03-07,2015
+339189,2,4,Hofstra,James Madison,2015-03-07,2015
+339217,2,4,Princeton,Columbia,2015-03-07,2015
+339190,3,1,Houston Baptist,Incarnate Word,2015-03-07,2015
+339191,3,1,Idaho St.,Idaho,2015-03-07,2015
+339185,3,3,Alabama A&M,Grambling St.,2015-03-07,2015
+339226,3,3,Nicholls St.,Southeastern Louisiana,2015-03-07,2015
+339214,3,3,Penn,Cornell,2015-03-07,2015
+339216,3,3,Prairie View A&M,Alcorn St.,2015-03-07,2015
+339223,3,3,South Alabama,Troy,2015-03-07,2015
+339235,3,3,UT Rio Grande Valley,UMKC,2015-03-07,2015
+339236,3,3,UTSA,North Texas,2015-03-07,2015
+339239,3,3,Utah Valley,Cal St. Bakersfield,2015-03-07,2015
+339177,3,3,Western Carolina,East Tennessee St.,2015-03-07,2015
+339156,3,4,Appalachian St.,UT Arlington,2015-03-07,2015
+339180,3,4,FIU,UAB,2015-03-07,2015
+339170,3,4,Furman,Chattanooga,2015-03-07,2015
+339150,4,0,Alabama,Texas A&M,2015-03-07,2015
+339192,4,0,Illinois St.,Wichita St.,2015-03-07,2015
+339195,4,0,La Salle,Dayton,2015-03-07,2015
+339205,4,0,New Mexico,Wyoming,2015-03-07,2015
+553599,4,0,Portland,Saint Mary's,2015-03-07,2015
+339149,4,0,Washington,Utah,2015-03-07,2015
+339171,4,1,Coastal Carolina,Gardner Webb,2015-03-07,2015
+339209,4,2,Northern Arizona,Sacramento St.,2015-03-07,2015
+339194,4,3,Alabama St.,Jackson St.,2015-03-07,2015
+339187,4,3,Green Bay,Illinois Chicago,2015-03-07,2015
+339188,4,3,Harvard,Brown,2015-03-07,2015
+339164,4,3,Hawaii,Cal St. Fullerton,2015-03-07,2015
+339166,4,3,Long Beach St.,UC Riverside,2015-03-07,2015
+339158,4,3,Louisiana Lafayette,Arkansas St.,2015-03-07,2015
+339197,4,3,Louisiana Monroe,Texas St.,2015-03-07,2015
+339198,4,3,Manhattan,Marist,2015-03-07,2015
+339200,4,3,Mercer,VMI,2015-03-07,2015
+339179,4,3,Middle Tennessee,Florida Atlantic,2015-03-07,2015
+339203,4,3,Mississippi St.,Missouri,2015-03-07,2015
+339206,4,3,New Mexico St.,Chicago St.,2015-03-07,2015
+339228,4,3,St. Bonaventure,Fordham,2015-03-07,2015
+339233,4,3,Texas A&M Corpus Chris,Abilene Christian,2015-03-07,2015
+339237,4,3,Texas Southern,Southern,2015-03-07,2015
+339225,4,3,Tulane,South Florida,2015-03-07,2015
+339172,4,3,UNC Wilmington,College of Charleston,2015-03-07,2015
+339222,4,3,UNLV,San Jose St.,2015-03-07,2015
+339196,4,3,Winthrop,Longwood,2015-03-07,2015
+339154,4,4,Arizona St.,California,2015-03-07,2015
+339162,4,4,Boston College,Wake Forest,2015-03-07,2015
+339173,4,4,Dartmouth,Yale,2015-03-07,2015
+339181,4,4,Florida St.,Pittsburgh,2015-03-07,2015
+339199,4,4,Marquette,DePaul,2015-03-07,2015
+339168,4,4,Monmouth,Canisius,2015-03-07,2015
+339215,4,4,Pepperdine,San Diego,2015-03-07,2015
+553600,4,4,Rhode Island,Saint Joseph's,2015-03-07,2015
+339220,4,4,Robert Morris,Bryant,2015-03-07,2015
+553601,4,4,Saint Peter's,Rider,2015-03-07,2015
+339231,4,4,South Carolina,Tennessee,2015-03-07,2015
+553602,4,4,St. Francis NY,St. Francis PA,2015-03-07,2015
+339167,4,4,UC Santa Barbara,Cal Poly,2015-03-07,2015
+339144,4,4,West Virginia,Oklahoma St.,2015-03-07,2015
+339261,0,0,Wisconsin,Ohio St.,2015-03-08,2015
+339263,0,3,Wofford,Western Carolina,2015-03-08,2015
+339247,0,4,Cincinnati,Memphis,2015-03-08,2015
+339244,0,4,Maryland,Nebraska,2015-03-08,2015
+339253,0,4,Northern Iowa,Illinois St.,2015-03-08,2015
+339245,0,4,SMU,Tulsa,2015-03-08,2015
+339255,1,2,South Dakota,IPFW,2015-03-08,2015
+339249,2,2,American,Colgate,2015-03-08,2015
+339246,2,2,Lafayette,Bucknell,2015-03-08,2015
+339251,2,2,William & Mary,Hofstra,2015-03-08,2015
+339254,2,4,Iona,Monmouth,2015-03-08,2015
+339260,2,4,North Florida,USC Upstate,2015-03-08,2015
+339259,2,4,Northeastern,UNC Wilmington,2015-03-08,2015
+339257,3,3,McNeese St.,Central Arkansas,2015-03-08,2015
+339250,3,4,Furman,Mercer,2015-03-08,2015
+339258,4,2,Penn St.,Minnesota,2015-03-08,2015
+339252,4,3,Houston,East Carolina,2015-03-08,2015
+339256,4,3,Oral Roberts,IUPUI,2015-03-08,2015
+553603,4,4,Albany,New Hampshire,2015-03-08,2015
+339248,4,4,Coastal Carolina,Winthrop,2015-03-08,2015
+553604,4,4,Manhattan,Saint Peter's,2015-03-08,2015
+339262,4,4,Stony Brook,Vermont,2015-03-08,2015
+339275,0,1,South Dakota St.,South Dakota,2015-03-09,2015
+339269,0,3,Wofford,Furman,2015-03-09,2015
+339266,0,4,BYU,Portland,2015-03-09,2015
+339270,0,4,Gonzaga,Pepperdine,2015-03-09,2015
+339276,2,1,Western Michigan,Ohio,2015-03-09,2015
+339274,2,2,Northeastern,William & Mary,2015-03-09,2015
+339273,2,4,North Dakota St.,Oral Roberts,2015-03-09,2015
+553605,4,1,Eastern Michigan,Miami OH,2015-03-09,2015
+339272,4,2,Manhattan,Iona,2015-03-09,2015
+339264,4,3,Akron,Northern Illinois,2015-03-09,2015
+339265,4,3,Bowling Green,Ball St.,2015-03-09,2015
+339267,4,3,Delaware St.,Savannah St.,2015-03-09,2015
+339271,4,3,Hampton,Morgan St.,2015-03-09,2015
+339280,0,0,Gonzaga,BYU,2015-03-10,2015
+339284,0,4,Valparaiso,Green Bay,2015-03-10,2015
+339278,1,3,Coppin St.,Bethune Cookman,2015-03-10,2015
+339282,2,0,North Dakota St.,South Dakota St.,2015-03-10,2015
+339283,2,3,Princeton,Penn,2015-03-10,2015
+339285,2,4,Virginia Tech,Wake Forest,2015-03-10,2015
+339277,3,3,Alcorn St.,Grambling St.,2015-03-10,2015
+339281,3,3,South Carolina St.,North Carolina A&T,2015-03-10,2015
+339279,4,4,Boston College,Georgia Tech,2015-03-10,2015
+553606,4,4,Robert Morris,St. Francis NY,2015-03-10,2015
+339299,0,1,North Carolina Central,Coppin St.,2015-03-11,2015
+553607,0,2,Miami FL,Virginia Tech,2015-03-11,2015
+339286,0,4,North Carolina,Boston College,2015-03-11,2015
+339314,0,4,North Carolina St.,Pittsburgh,2015-03-11,2015
+339316,0,4,Stanford,Washington,2015-03-11,2015
+339317,0,4,Texas,Texas Tech,2015-03-11,2015
+339301,1,3,Duquesne,Saint Louis,2015-03-11,2015
+339289,1,4,Air Force,New Mexico,2015-03-11,2015
+339305,2,2,Lafayette,American,2015-03-11,2015
+339308,2,3,Minnesota,Rutgers,2015-03-11,2015
+339302,3,3,FIU,UTSA,2015-03-11,2015
+339303,3,3,Fordham,George Mason,2015-03-11,2015
+339307,3,3,McNeese St.,Southeastern Louisiana,2015-03-11,2015
+339312,3,3,New Orleans,Nicholls St.,2015-03-11,2015
+339315,3,3,Rice,North Texas,2015-03-11,2015
+339288,4,1,California,Washington St.,2015-03-11,2015
+339290,4,2,Akron,Western Michigan,2015-03-11,2015
+339296,4,2,Middle Tennessee,Charlotte,2015-03-11,2015
+339291,4,3,Alabama St.,Mississippi Valley St.,2015-03-11,2015
+339313,4,3,Norfolk St.,South Carolina St.,2015-03-11,2015
+339309,4,3,South Carolina,Missouri,2015-03-11,2015
+339292,4,3,Texas Southern,Alcorn St.,2015-03-11,2015
+339311,4,3,UNLV,Nevada,2015-03-11,2015
+339306,4,3,Western Kentucky,Marshall,2015-03-11,2015
+339294,4,4,Auburn,Mississippi St.,2015-03-11,2015
+339298,4,4,Colorado,Oregon St.,2015-03-11,2015
+339300,4,4,Creighton,DePaul,2015-03-11,2015
+339295,4,4,Eastern Michigan,Bowling Green,2015-03-11,2015
+339297,4,4,Florida St.,Clemson,2015-03-11,2015
+339287,4,4,Marquette,Seton Hall,2015-03-11,2015
+339310,4,4,Penn St.,Nebraska,2015-03-11,2015
+339304,4,4,TCU,Kansas St.,2015-03-11,2015
+339293,4,4,USC,Arizona St.,2015-03-11,2015
+339330,0,0,Duke,North Carolina St.,2015-03-12,2015
+339331,0,0,Iowa St.,Texas,2015-03-12,2015
+339319,0,0,North Carolina,Louisville,2015-03-12,2015
+553608,0,0,Notre Dame,Miami FL,2015-03-12,2015
+553609,0,0,Providence,St. John's,2015-03-12,2015
+339326,0,0,Utah,Stanford,2015-03-12,2015
+339325,0,0,Xavier,Butler,2015-03-12,2015
+339333,0,1,Boise St.,Air Force,2015-03-12,2015
+339349,0,1,George Washington,Duquesne,2015-03-12,2015
+339363,0,2,Ohio St.,Minnesota,2015-03-12,2015
+339374,0,2,Wyoming,Utah St.,2015-03-12,2015
+339345,0,3,Colorado St.,Fresno St.,2015-03-12,2015
+339346,0,3,Connecticut,South Florida,2015-03-12,2015
+339360,0,3,Louisiana Tech,Rice,2015-03-12,2015
+339342,0,3,UC Irvine,UC Riverside,2015-03-12,2015
+339352,0,3,UTEP,FIU,2015-03-12,2015
+339353,0,3,VCU,Fordham,2015-03-12,2015
+339329,0,4,Arizona,California,2015-03-12,2015
+339324,0,4,Baylor,West Virginia,2015-03-12,2015
+339347,0,4,Georgetown,Creighton,2015-03-12,2015
+339318,0,4,Kansas,TCU,2015-03-12,2015
+339323,0,4,Oklahoma,Oklahoma St.,2015-03-12,2015
+339321,0,4,Oregon,Colorado,2015-03-12,2015
+339367,0,4,San Diego St.,UNLV,2015-03-12,2015
+339371,0,4,UCLA,USC,2015-03-12,2015
+339322,0,4,Villanova,Marquette,2015-03-12,2015
+339320,0,4,Virginia,Florida St.,2015-03-12,2015
+339361,1,3,Northwestern St.,McNeese St.,2015-03-12,2015
+339357,2,0,Michigan,Illinois,2015-03-12,2015
+339351,2,1,Eastern Washington,Idaho,2015-03-12,2015
+339370,2,1,Sacramento St.,Portland St.,2015-03-12,2015
+339327,2,2,Indiana,Northwestern,2015-03-12,2015
+339366,2,3,Montana,Weber St.,2015-03-12,2015
+339341,2,3,UC Davis,Cal St. Northridge,2015-03-12,2015
+339350,2,4,Toledo,Eastern Michigan,2015-03-12,2015
+339343,3,1,East Carolina,UCF,2015-03-12,2015
+339340,3,3,Cal St. Bakersfield,Utah Valley,2015-03-12,2015
+339358,3,3,Prairie View A&M,Jackson St.,2015-03-12,2015
+339338,3,3,South Alabama,Arkansas Little Rock,2015-03-12,2015
+339336,3,3,Southern,Alabama A&M,2015-03-12,2015
+339365,3,3,UMKC,UT Rio Grande Valley,2015-03-12,2015
+339373,3,4,Texas St.,UT Arlington,2015-03-12,2015
+339328,4,0,Auburn,Texas A&M,2015-03-12,2015
+339362,4,0,Middle Tennessee,Old Dominion,2015-03-12,2015
+339332,4,0,Penn St.,Iowa,2015-03-12,2015
+339372,4,0,Tennessee,Vanderbilt,2015-03-12,2015
+339369,4,1,Northern Arizona,Northern Colorado,2015-03-12,2015
+339348,4,3,Delaware St.,Howard,2015-03-12,2015
+339359,4,3,La Salle,UMass Lowell,2015-03-12,2015
+339344,4,3,Seattle,Chicago St.,2015-03-12,2015
+339368,4,3,Texas A&M Corpus Chris,New Orleans,2015-03-12,2015
+339334,4,4,Akron,Kent St.,2015-03-12,2015
+339335,4,4,Florida,Alabama,2015-03-12,2015
+339354,4,4,Hampton,Maryland Eastern Shore,2015-03-12,2015
+339355,4,4,Hawaii,Long Beach St.,2015-03-12,2015
+339356,4,4,Houston,Tulane,2015-03-12,2015
+339359,4,4,La Salle,Massachusetts,2015-03-12,2015
+339364,4,4,South Carolina,Mississippi,2015-03-12,2015
+553610,4,4,St. Bonaventure,Saint Joseph's,2015-03-12,2015
+339337,4,4,UAB,Western Kentucky,2015-03-12,2015
+339339,4,4,UC Santa Barbara,Cal Poly,2015-03-12,2015
+339385,0,0,Arizona,UCLA,2015-03-13,2015
+339398,0,0,Connecticut,Cincinnati,2015-03-13,2015
+339380,0,0,Iowa St.,Oklahoma,2015-03-13,2015
+339375,0,0,Kansas,Baylor,2015-03-13,2015
+339376,0,0,Michigan St.,Ohio St.,2015-03-13,2015
+339377,0,0,North Carolina,Virginia,2015-03-13,2015
+339386,0,0,Notre Dame,Duke,2015-03-13,2015
+339378,0,0,Oregon,Utah,2015-03-13,2015
+339399,0,0,San Diego St.,Colorado St.,2015-03-13,2015
+339417,0,0,VCU,Richmond,2015-03-13,2015
+339379,0,0,Villanova,Providence,2015-03-13,2015
+339393,0,0,Wyoming,Boise St.,2015-03-13,2015
+339381,0,0,Xavier,Georgetown,2015-03-13,2015
+339415,0,1,Stephen F. Austin,Northwestern St.,2015-03-13,2015
+339384,0,2,Maryland,Indiana,2015-03-13,2015
+339411,0,2,Wisconsin,Michigan,2015-03-13,2015
+339387,0,3,SMU,East Carolina,2015-03-13,2015
+339391,0,4,Arkansas,Tennessee,2015-03-13,2015
+339388,0,4,Buffalo,Akron,2015-03-13,2015
+339401,0,4,Dayton,St. Bonaventure,2015-03-13,2015
+339405,0,4,Georgia,South Carolina,2015-03-13,2015
+339382,0,4,Kentucky,Florida,2015-03-13,2015
+339383,0,4,Purdue,Penn St.,2015-03-13,2015
+339410,0,4,Temple,Memphis,2015-03-13,2015
+339396,0,4,UC Irvine,UC Santa Barbara,2015-03-13,2015
+339397,2,2,Central Michigan,Toledo,2015-03-13,2015
+339403,2,2,Eastern Washington,Sacramento St.,2015-03-13,2015
+339400,2,4,Davidson,La Salle,2015-03-13,2015
+339414,2,4,Montana,Northern Arizona,2015-03-13,2015
+339390,3,4,Southern,Alabama St.,2015-03-13,2015
+339392,4,0,Auburn,LSU,2015-03-13,2015
+339402,4,0,Delaware St.,North Carolina Central,2015-03-13,2015
+339412,4,0,Middle Tennessee,UTEP,2015-03-13,2015
+339404,4,0,Rhode Island,George Washington,2015-03-13,2015
+339389,4,0,UAB,Louisiana Tech,2015-03-13,2015
+339395,4,2,Hawaii,UC Davis,2015-03-13,2015
+339408,4,3,Louisiana Lafayette,Texas St.,2015-03-13,2015
+339409,4,3,Louisiana Monroe,South Alabama,2015-03-13,2015
+339394,4,3,New Mexico St.,Cal St. Bakersfield,2015-03-13,2015
+339413,4,3,Seattle,UMKC,2015-03-13,2015
+339416,4,3,Texas Southern,Prairie View A&M,2015-03-13,2015
+339406,4,4,Hampton,Norfolk St.,2015-03-13,2015
+339418,4,4,Sam Houston St.,Texas A&M Corpus Chris,2015-03-13,2015
+339407,4,4,Tulsa,Houston,2015-03-13,2015
+339422,0,0,Arizona,Oregon,2015-03-14,2015
+339428,0,0,Arkansas,Georgia,2015-03-14,2015
+339419,0,0,Iowa St.,Kansas,2015-03-14,2015
+339420,0,0,Michigan St.,Maryland,2015-03-14,2015
+339421,0,0,Notre Dame,North Carolina,2015-03-14,2015
+339426,0,0,SMU,Temple,2015-03-14,2015
+339423,0,0,Villanova,Xavier,2015-03-14,2015
+339425,0,0,Wisconsin,Purdue,2015-03-14,2015
+339441,0,0,Wyoming,San Diego St.,2015-03-14,2015
+339429,0,2,Buffalo,Central Michigan,2015-03-14,2015
+339432,0,2,VCU,Davidson,2015-03-14,2015
+339431,0,4,Connecticut,Tulsa,2015-03-14,2015
+339433,0,4,Dayton,Rhode Island,2015-03-14,2015
+339436,0,4,Georgia St.,Louisiana Lafayette,2015-03-14,2015
+339424,0,4,Kentucky,Auburn,2015-03-14,2015
+339440,0,4,Stephen F. Austin,Sam Houston St.,2015-03-14,2015
+339430,0,4,UC Irvine,Hawaii,2015-03-14,2015
+339438,2,2,Eastern Washington,Montana,2015-03-14,2015
+339442,4,3,Texas Southern,Southern,2015-03-14,2015
+553611,4,4,Albany,Stony Brook,2015-03-14,2015
+339435,4,4,Georgia Southern,Louisiana Monroe,2015-03-14,2015
+339434,4,4,Hampton,Delaware St.,2015-03-14,2015
+339437,4,4,Harvard,Yale,2015-03-14,2015
+339439,4,4,New Mexico St.,Seattle,2015-03-14,2015
+339427,4,4,UAB,Middle Tennessee,2015-03-14,2015
+339444,0,0,Kentucky,Arkansas,2015-03-15,2015
+339445,0,0,SMU,Connecticut,2015-03-15,2015
+339446,0,0,VCU,Dayton,2015-03-15,2015
+339443,0,0,Wisconsin,Michigan St.,2015-03-15,2015
+339447,0,4,Georgia St.,Georgia Southern,2015-03-15,2015
+339448,4,4,NJIT,New Hampshire,2015-03-16,2015
+553612,0,0,Miami FL,North Carolina Central,2015-03-17,2015
+339456,0,0,Murray St.,UTEP,2015-03-17,2015
+339455,0,2,Louisiana Tech,Central Michigan,2015-03-17,2015
+339462,0,2,Stanford,UC Davis,2015-03-17,2015
+339449,0,2,Texas A&M,Montana,2015-03-17,2015
+339458,0,4,George Washington,Pittsburgh,2015-03-17,2015
+339452,2,4,Eastern Kentucky,Norfolk St.,2015-03-17,2015
+553613,2,4,Loyola Chicago,Rider,2015-03-17,2015
+339450,4,0,Alabama,Illinois,2015-03-17,2015
+339451,4,0,Mississippi,BYU,2015-03-17,2015
+339454,4,1,Louisiana Lafayette,Incarnate Word,2015-03-17,2015
+339457,4,2,Eastern Illinois,Oakland,2015-03-17,2015
+339459,4,2,Rhode Island,Iona,2015-03-17,2015
+339463,4,2,Tulsa,William & Mary,2015-03-17,2015
+339460,4,4,Bowling Green,St. Francis PA,2015-03-17,2015
+339453,4,4,Hampton,Manhattan,2015-03-17,2015
+339461,4,4,USC Upstate,James Madison,2015-03-17,2015
+339464,0,0,Dayton,Boise St.,2015-03-18,2015
+339467,0,0,South Dakota St.,Colorado St.,2015-03-18,2015
+553615,0,0,Vanderbilt,Saint Mary's,2015-03-18,2015
+339480,0,1,Old Dominion,Charleston Southern,2015-03-18,2015
+339486,0,2,Temple,Bucknell,2015-03-18,2015
+553614,0,4,Richmond,St. Francis NY,2015-03-18,2015
+339470,2,2,Evansville,IPFW,2015-03-18,2015
+339473,2,4,High Point,Maryland Eastern Shore,2015-03-18,2015
+339482,2,4,Sacramento St.,Portland,2015-03-18,2015
+339468,4,0,Arizona St.,Connecticut,2015-03-18,2015
+339466,4,1,Colorado,Gardner Webb,2015-03-18,2015
+339472,4,1,Northern Arizona,Grand Canyon,2015-03-18,2015
+339487,4,2,Cleveland St.,Western Michigan,2015-03-18,2015
+339479,4,2,Robert Morris,North Florida,2015-03-18,2015
+339474,4,2,Vermont,Hofstra,2015-03-18,2015
+339465,4,4,Canisius,Dartmouth,2015-03-18,2015
+339475,4,4,Illinois St.,Green Bay,2015-03-18,2015
+339478,4,4,Kent St.,Middle Tennessee,2015-03-18,2015
+339476,4,4,Louisiana Monroe,Eastern Michigan,2015-03-18,2015
+339477,4,4,Mercer,Stony Brook,2015-03-18,2015
+339481,4,4,Oral Roberts,UC Santa Barbara,2015-03-18,2015
+339469,4,4,Radford,Delaware St.,2015-03-18,2015
+339484,4,4,Sam Houston St.,UNC Wilmington,2015-03-18,2015
+339485,4,4,Seattle,Pepperdine,2015-03-18,2015
+339471,4,4,Texas A&M Corpus Chris,Florida Gulf Coast,2015-03-18,2015
+339498,0,0,Arkansas,Wofford,2015-03-19,2015
+339499,0,0,Butler,Texas,2015-03-19,2015
+339492,0,0,Cincinnati,Purdue,2015-03-19,2015
+339495,0,0,Georgia St.,Baylor,2015-03-19,2015
+339501,0,0,North Carolina St.,LSU,2015-03-19,2015
+339504,0,0,Ohio St.,VCU,2015-03-19,2015
+339497,0,0,UCLA,SMU,2015-03-19,2015
+339493,0,0,Utah,Stephen F. Austin,2015-03-19,2015
+339500,0,2,Georgetown,Eastern Washington,2015-03-19,2015
+339502,0,2,Notre Dame,Northeastern,2015-03-19,2015
+339489,0,2,Villanova,Lafayette,2015-03-19,2015
+339494,0,4,Arizona,Texas Southern,2015-03-19,2015
+339491,0,4,Kentucky,Hampton,2015-03-19,2015
+339488,0,4,North Carolina,Harvard,2015-03-19,2015
+339490,0,4,Xavier,Mississippi,2015-03-19,2015
+339503,2,1,Tennessee Martin,Northwestern St.,2015-03-19,2015
+339496,4,0,UAB,Iowa St.,2015-03-19,2015
+339516,0,0,Dayton,Providence,2015-03-20,2015
+339511,0,0,Louisville,UC Irvine,2015-03-20,2015
+339512,0,0,Maryland,Valparaiso,2015-03-20,2015
+339506,0,0,Michigan St.,Georgia,2015-03-20,2015
+339519,0,0,Northern Iowa,Wyoming,2015-03-20,2015
+553617,0,0,San Diego St.,St. John's,2015-03-20,2015
+339520,0,0,Vanderbilt,South Dakota St.,2015-03-20,2015
+339518,0,2,Gonzaga,North Dakota St.,2015-03-20,2015
+339514,0,2,Iowa,Davidson,2015-03-20,2015
+339507,0,2,Virginia,Belmont,2015-03-20,2015
+339510,0,2,Wichita St.,Indiana,2015-03-20,2015
+339513,0,4,Duke,Robert Morris,2015-03-20,2015
+339505,0,4,Kansas,New Mexico St.,2015-03-20,2015
+553616,0,4,Oklahoma,Albany,2015-03-20,2015
+339508,0,4,Oregon,Oklahoma St.,2015-03-20,2015
+339515,0,4,Wisconsin,Coastal Carolina,2015-03-20,2015
+339517,2,2,Eastern Kentucky,High Point,2015-03-20,2015
+339509,4,0,West Virginia,Buffalo,2015-03-20,2015
+339526,0,0,Arizona,Ohio St.,2015-03-21,2015
+339524,0,0,Kentucky,Cincinnati,2015-03-21,2015
+339521,0,0,North Carolina,Arkansas,2015-03-21,2015
+339522,0,0,North Carolina St.,Villanova,2015-03-21,2015
+339529,0,0,Notre Dame,Butler,2015-03-21,2015
+339525,0,0,Utah,Georgetown,2015-03-21,2015
+339523,0,0,Xavier,Georgia St.,2015-03-21,2015
+553618,0,4,Miami FL,Alabama,2015-03-21,2015
+339527,0,4,UCLA,UAB,2015-03-21,2015
+339532,2,4,Tennessee Martin,USC Upstate,2015-03-21,2015
+339530,4,2,Northern Arizona,Sacramento St.,2015-03-21,2015
+339528,4,4,Canisius,Bowling Green,2015-03-21,2015
+339531,4,4,Louisiana Lafayette,Sam Houston St.,2015-03-21,2015
+339539,0,0,Duke,San Diego St.,2015-03-22,2015
+339540,0,0,Gonzaga,Iowa,2015-03-22,2015
+339538,0,0,Louisville,Northern Iowa,2015-03-22,2015
+339534,0,0,Michigan St.,Virginia,2015-03-22,2015
+339536,0,0,Oklahoma,Dayton,2015-03-22,2015
+339543,0,0,Temple,George Washington,2015-03-22,2015
+339533,0,0,Wichita St.,Kansas,2015-03-22,2015
+339535,0,0,Wisconsin,Oregon,2015-03-22,2015
+339541,0,4,Richmond,Arizona St.,2015-03-22,2015
+339542,0,4,Stanford,Rhode Island,2015-03-22,2015
+339537,4,0,West Virginia,Maryland,2015-03-22,2015
+339544,0,0,Louisiana Tech,Texas A&M,2015-03-23,2015
+339551,0,4,Murray St.,Tulsa,2015-03-23,2015
+339548,0,4,Old Dominion,Illinois St.,2015-03-23,2015
+339545,2,4,Evansville,Eastern Illinois,2015-03-23,2015
+553619,2,4,Loyola Chicago,Oral Roberts,2015-03-23,2015
+339550,4,4,Kent St.,Texas A&M Corpus Chris,2015-03-23,2015
+339546,4,4,Louisiana Monroe,Mercer,2015-03-23,2015
+339547,4,4,NJIT,Cleveland St.,2015-03-23,2015
+339549,4,4,Seattle,Colorado,2015-03-23,2015
+339552,4,4,Vermont,Radford,2015-03-23,2015
+553620,0,0,Miami FL,Richmond,2015-03-24,2015
+339554,0,0,Stanford,Vanderbilt,2015-03-24,2015
+339557,0,0,Old Dominion,Murray St.,2015-03-25,2015
+339558,0,0,Temple,Louisiana Tech,2015-03-25,2015
+339555,2,2,Tennessee Martin,Eastern Kentucky,2015-03-25,2015
+553621,2,4,Loyola Chicago,Seattle,2015-03-25,2015
+339556,4,4,Louisiana Monroe,Vermont,2015-03-25,2015
+339561,0,0,Arizona,Xavier,2015-03-26,2015
+339563,0,0,Notre Dame,Wichita St.,2015-03-26,2015
+339559,0,0,Wisconsin,North Carolina,2015-03-26,2015
+339560,0,4,Kentucky,West Virginia,2015-03-26,2015
+339562,2,4,Evansville,Louisiana Lafayette,2015-03-26,2015
+339565,0,0,Duke,Utah,2015-03-27,2015
+339567,0,0,Gonzaga,UCLA,2015-03-27,2015
+339566,0,0,Louisville,North Carolina St.,2015-03-27,2015
+339564,0,0,Michigan St.,Oklahoma,2015-03-27,2015
+339568,4,4,Northern Arizona,Kent St.,2015-03-27,2015
+339569,0,0,Kentucky,Notre Dame,2015-03-28,2015
+339570,0,0,Wisconsin,Arizona,2015-03-28,2015
+339571,4,4,NJIT,Canisius,2015-03-28,2015
+339573,0,0,Duke,Gonzaga,2015-03-29,2015
+339572,0,0,Michigan St.,Louisville,2015-03-29,2015
+553622,2,4,Loyola Chicago,Louisiana Monroe,2015-03-30,2015
+553623,0,0,Miami FL,Temple,2015-03-31,2015
+339576,0,0,Stanford,Old Dominion,2015-03-31,2015
+339574,2,2,Evansville,Tennessee Martin,2015-03-31,2015
+339575,4,4,Northern Arizona,NJIT,2015-03-31,2015
+553624,2,4,Loyola Chicago,Louisiana Monroe,2015-04-01,2015
+553625,0,0,Stanford,Miami FL,2015-04-02,2015
+339578,2,4,Evansville,Northern Arizona,2015-04-02,2015
+339579,0,0,Duke,Michigan St.,2015-04-04,2015
+339580,0,0,Wisconsin,Kentucky,2015-04-04,2015
+339581,0,0,Duke,Wisconsin,2015-04-06,2015

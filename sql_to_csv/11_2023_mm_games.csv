@@ -1,0 +1,182 @@
+ID,WINNER_CLUSTER,LOSER_CLUSTER,WINNER_TEAM,LOSER_TEAM,GAMEDAY,SEASON
+1244907,0,0,Drake,Bradley,2023-03-05,2023
+1241162,0,0,Houston,Memphis,2023-03-05,2023
+1242846,0,0,Northwestern,Rutgers,2023-03-05,2023
+1241305,0,0,Purdue,Illinois,2023-03-05,2023
+1244920,0,1,College of Charleston,Stony Brook,2023-03-05,2023
+1241391,0,2,Indiana,Michigan,2023-03-05,2023
+1242051,2,0,Penn St.,Maryland,2023-03-05,2023
+1244937,2,1,Furman,Western Carolina,2023-03-05,2023
+1244836,2,2,Colgate,Army,2023-03-05,2023
+1244846,2,2,Kennesaw St.,Liberty,2023-03-05,2023
+1244913,2,2,UNC Asheville,Campbell,2023-03-05,2023
+1244949,2,4,Louisiana Lafayette,Texas St.,2023-03-05,2023
+1244959,4,1,Montana St.,Northern Colorado,2023-03-05,2023
+1244921,0,2,College of Charleston,Towson,2023-03-06,2023
+1244940,0,2,Gonzaga,San Francisco,2023-03-06,2023
+1244984,0,4,Saint Mary's,BYU,2023-03-06,2023
+1244982,2,2,Furman,Chattanooga,2023-03-06,2023
+1244950,2,2,Louisiana Lafayette,South Alabama,2023-03-06,2023
+1244968,2,2,Oral Roberts,St. Thomas,2023-03-06,2023
+1244860,4,2,Northern Kentucky,Youngstown St.,2023-03-06,2023
+1245034,0,0,Gonzaga,Saint Mary's,2023-03-07,2023
+1245021,0,4,College of Charleston,UNC Wilmington,2023-03-07,2023
+1245017,2,1,Texas A&M Corpus Chris,McNeese St.,2023-03-07,2023
+1244905,2,1,Vermont,Binghamton,2023-03-07,2023
+1245035,2,2,Oral Roberts,North Dakota St.,2023-03-07,2023
+1244941,2,3,Grand Canyon,UT Arlington,2023-03-07,2023
+1245030,4,2,Montana St.,Weber St.,2023-03-07,2023
+1245020,4,4,Northern Kentucky,Cleveland St.,2023-03-07,2023
+1244999,0,0,West Virginia,Texas Tech,2023-03-08,2023
+1245028,0,1,Iona,Mount St. Mary's,2023-03-08,2023
+1245050,0,2,North Carolina St.,Virginia Tech,2023-03-08,2023
+1245036,0,2,Pittsburgh,Georgia Tech,2023-03-08,2023
+1244900,0,3,Arizona St.,Oregon St.,2023-03-08,2023
+1244919,2,1,Colgate,Lafayette,2023-03-08,2023
+1245055,2,4,Texas A&M Corpus Chris,Northwestern St.,2023-03-08,2023
+1244899,3,3,Texas Southern,Alcorn St.,2023-03-08,2023
+1245049,4,1,Montana St.,Northern Arizona,2023-03-08,2023
+1244875,4,3,Howard,South Carolina St.,2023-03-08,2023
+1245070,0,0,Arizona St.,USC,2023-03-09,2023
+1245010,0,0,Arkansas,Auburn,2023-03-09,2023
+1244924,0,0,Connecticut,Providence,2023-03-09,2023
+1245085,0,0,Duke,Pittsburgh,2023-03-09,2023
+1245105,0,0,Kansas,West Virginia,2023-03-09,2023
+1244947,0,0,TCU,Kansas St.,2023-03-09,2023
+1245125,0,0,Texas,Oklahoma St.,2023-03-09,2023
+1245120,0,0,Virginia,North Carolina,2023-03-09,2023
+1244876,0,1,Kent St.,Northern Illinois,2023-03-09,2023
+1245112,0,1,Maryland,Minnesota,2023-03-09,2023
+1245084,0,1,Xavier,DePaul,2023-03-09,2023
+1245067,0,2,Arizona,Stanford,2023-03-09,2023
+1245081,0,2,Creighton,Villanova,2023-03-09,2023
+1245089,0,2,Florida Atlantic,Western Kentucky,2023-03-09,2023
+1245048,0,2,Miami FL,Wake Forest,2023-03-09,2023
+1245059,0,2,San Diego St.,Colorado St.,2023-03-09,2023
+1245118,0,2,Utah St.,New Mexico,2023-03-09,2023
+1245056,0,2,VCU,Davidson,2023-03-09,2023
+1245072,0,4,Boise St.,UNLV,2023-03-09,2023
+1245116,0,4,Tennessee,Mississippi,2023-03-09,2023
+1245079,0,4,UCLA,Colorado,2023-03-09,2023
+1244944,2,0,Penn St.,Illinois,2023-03-09,2023
+1245062,2,3,UC Santa Barbara,Cal Poly,2023-03-09,2023
+1245040,2,4,Grand Canyon,Seattle,2023-03-09,2023
+1244903,4,0,Iowa St.,Baylor,2023-03-09,2023
+1244934,4,4,Mississippi St.,Florida,2023-03-09,2023
+1245068,0,0,Arizona,Arizona St.,2023-03-10,2023
+1245086,0,0,Duke,Miami FL,2023-03-10,2023
+1245099,0,0,Indiana,Maryland,2023-03-10,2023
+1245080,0,0,Marquette,Connecticut,2023-03-10,2023
+1245128,0,0,Purdue,Rutgers,2023-03-10,2023
+1245134,0,0,Texas,TCU,2023-03-10,2023
+1245071,0,0,Texas A&M,Arkansas,2023-03-10,2023
+1245127,0,0,UCLA,Oregon,2023-03-10,2023
+1245073,0,0,Utah St.,Boise St.,2023-03-10,2023
+1245078,0,0,Virginia,Clemson,2023-03-10,2023
+1245082,0,0,Xavier,Creighton,2023-03-10,2023
+1245101,0,1,Iona,Niagara,2023-03-10,2023
+1245090,0,2,Florida Atlantic,Middle Tennessee,2023-03-10,2023
+1245063,0,2,Kent St.,Akron,2023-03-10,2023
+1245131,0,2,San Diego St.,San Jose St.,2023-03-10,2023
+1245064,0,4,Alabama,Mississippi St.,2023-03-10,2023
+1245088,0,4,Houston,East Carolina,2023-03-10,2023
+1245104,0,4,Kansas,Iowa St.,2023-03-10,2023
+1245113,0,4,Memphis,UCF,2023-03-10,2023
+1245117,2,0,Missouri,Tennessee,2023-03-10,2023
+1245122,2,0,Penn St.,Northwestern,2023-03-10,2023
+1245137,2,2,UC Santa Barbara,UC Riverside,2023-03-10,2023
+1245095,2,4,Grand Canyon,Sam Houston St.,2023-03-10,2023
+1245066,3,3,Texas Southern,Alabama A&M,2023-03-10,2023
+1245097,4,3,Howard,Maryland Eastern Shore,2023-03-10,2023
+1245144,0,0,Arizona,UCLA,2023-03-11,2023
+1245142,0,0,Duke,Virginia,2023-03-11,2023
+1245091,0,0,Florida Atlantic,UAB,2023-03-11,2023
+1245140,0,0,Houston,Cincinnati,2023-03-11,2023
+1245111,0,0,Marquette,Xavier,2023-03-11,2023
+1245132,0,0,San Diego St.,Utah St.,2023-03-11,2023
+1245106,0,0,Texas,Kansas,2023-03-11,2023
+1245135,0,0,Texas A&M,Vanderbilt,2023-03-11,2023
+1245065,0,2,Alabama,Missouri,2023-03-11,2023
+1245141,0,2,Kent St.,Toledo,2023-03-11,2023
+1245114,0,2,Memphis,Tulane,2023-03-11,2023
+1245138,0,2,Purdue,Ohio St.,2023-03-11,2023
+1245139,0,2,VCU,Saint Louis,2023-03-11,2023
+1245102,0,4,Iona,Marist,2023-03-11,2023
+1245100,2,0,Penn St.,Indiana,2023-03-11,2023
+1245145,2,2,Grand Canyon,Southern Utah,2023-03-11,2023
+1245015,2,2,Princeton,Penn,2023-03-11,2023
+1245143,2,4,UC Santa Barbara,Cal St. Fullerton,2023-03-11,2023
+1245094,3,4,Texas Southern,Grambling St.,2023-03-11,2023
+1245098,4,4,Howard,Norfolk St.,2023-03-11,2023
+1245152,0,0,Alabama,Texas A&M,2023-03-12,2023
+1245171,0,0,Memphis,Houston,2023-03-12,2023
+1245164,0,0,VCU,Dayton,2023-03-12,2023
+1245187,0,2,Purdue,Penn St.,2023-03-12,2023
+1245189,2,0,Princeton,Yale,2023-03-12,2023
+1245184,0,4,Pittsburgh,Mississippi St.,2023-03-14,2023
+1245193,2,1,Texas A&M Corpus Chris,Southeast Missouri St.,2023-03-14,2023
+1245154,0,2,Arizona St.,Nevada,2023-03-15,2023
+1245168,1,3,Fairleigh Dickinson,Texas Southern,2023-03-15,2023
+1245155,0,0,Arkansas,Illinois,2023-03-16,2023
+1245181,0,0,Maryland,West Virginia,2023-03-16,2023
+1245199,0,0,Northwestern,Boise St.,2023-03-16,2023
+1245196,0,0,San Diego St.,College of Charleston,2023-03-16,2023
+1245224,0,2,Alabama,Texas A&M Corpus Chris,2023-03-16,2023
+1245197,0,2,Auburn,Iowa,2023-03-16,2023
+1245166,0,2,Duke,Oral Roberts,2023-03-16,2023
+1245200,0,2,Tennessee,Louisiana Lafayette,2023-03-16,2023
+1245198,0,2,Texas,Colgate,2023-03-16,2023
+1245192,0,2,UCLA,UNC Asheville,2023-03-16,2023
+1245172,0,4,Houston,Northern Kentucky,2023-03-16,2023
+1245195,0,4,Kansas,Howard,2023-03-16,2023
+1245194,2,0,Furman,Virginia,2023-03-16,2023
+1245185,2,0,Missouri,Utah St.,2023-03-16,2023
+1245201,2,0,Penn St.,Texas A&M,2023-03-16,2023
+1245153,2,0,Princeton,Arizona,2023-03-16,2023
+1245162,0,0,Connecticut,Iona,2023-03-17,2023
+1245163,0,0,Creighton,North Carolina St.,2023-03-17,2023
+1245204,0,0,Florida Atlantic,Memphis,2023-03-17,2023
+1245174,0,0,Indiana,Kent St.,2023-03-17,2023
+1245178,0,0,Kentucky,Providence,2023-03-17,2023
+1245203,0,0,Miami FL,Drake,2023-03-17,2023
+1245182,0,0,Michigan St.,USC,2023-03-17,2023
+1245190,0,0,Saint Mary's,VCU,2023-03-17,2023
+1245236,0,0,TCU,Arizona St.,2023-03-17,2023
+1245147,0,2,Baylor,UC Santa Barbara,2023-03-17,2023
+1245148,0,2,Gonzaga,Grand Canyon,2023-03-17,2023
+1245180,0,2,Marquette,Vermont,2023-03-17,2023
+1245202,0,2,Xavier,Kennesaw St.,2023-03-17,2023
+1245176,0,4,Kansas St.,Montana St.,2023-03-17,2023
+1245225,0,4,Pittsburgh,Iowa St.,2023-03-17,2023
+1245232,1,0,Fairleigh Dickinson,Purdue,2023-03-17,2023
+1245238,0,0,Alabama,Maryland,2023-03-18,2023
+1245243,0,0,Arkansas,Kansas,2023-03-18,2023
+1245250,0,0,Houston,Auburn,2023-03-18,2023
+1245249,0,0,Tennessee,Duke,2023-03-18,2023
+1245252,0,0,UCLA,Northwestern,2023-03-18,2023
+1245242,0,2,San Diego St.,Furman,2023-03-18,2023
+1245251,0,2,Texas,Penn St.,2023-03-18,2023
+1245241,2,2,Princeton,Missouri,2023-03-18,2023
+1245254,0,0,Connecticut,Saint Mary's,2023-03-19,2023
+1245253,0,0,Creighton,Baylor,2023-03-19,2023
+1245256,0,0,Gonzaga,TCU,2023-03-19,2023
+1245258,0,0,Kansas St.,Kentucky,2023-03-19,2023
+1245257,0,0,Miami FL,Indiana,2023-03-19,2023
+1245259,0,0,Michigan St.,Marquette,2023-03-19,2023
+1245261,0,0,Xavier,Pittsburgh,2023-03-19,2023
+1245284,0,1,Florida Atlantic,Fairleigh Dickinson,2023-03-19,2023
+1245314,0,0,Connecticut,Arkansas,2023-03-23,2023
+1245315,0,0,Florida Atlantic,Tennessee,2023-03-23,2023
+1245316,0,0,Gonzaga,UCLA,2023-03-23,2023
+1245307,0,0,Kansas St.,Michigan St.,2023-03-23,2023
+1245306,0,0,Miami FL,Houston,2023-03-24,2023
+1245266,0,0,San Diego St.,Alabama,2023-03-24,2023
+1245294,0,0,Texas,Xavier,2023-03-24,2023
+1245303,0,2,Creighton,Princeton,2023-03-24,2023
+1245335,0,0,Connecticut,Gonzaga,2023-03-25,2023
+1245334,0,0,Florida Atlantic,Kansas St.,2023-03-25,2023
+1245339,0,0,Miami FL,Texas,2023-03-26,2023
+1245338,0,0,San Diego St.,Creighton,2023-03-26,2023
+1245340,0,0,Connecticut,Miami FL,2023-04-01,2023
+1245342,0,0,San Diego St.,Florida Atlantic,2023-04-01,2023
+1245344,0,0,Connecticut,San Diego St.,2023-04-03,2023

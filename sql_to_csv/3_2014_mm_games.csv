@@ -1,0 +1,599 @@
+ID,WINNER_CLUSTER,LOSER_CLUSTER,WINNER_TEAM,LOSER_TEAM,GAMEDAY,SEASON
+333376,0,0,Dayton,Saint Louis,2014-03-05,2014
+553213,0,0,George Washington,Saint Joseph's,2014-03-05,2014
+333352,0,0,Louisville,SMU,2014-03-05,2014
+333371,0,0,San Diego St.,UNLV,2014-03-05,2014
+333349,0,0,Utah,California,2014-03-05,2014
+333353,0,2,Arizona,Oregon St.,2014-03-05,2014
+333365,0,2,Massachusetts,Duquesne,2014-03-05,2014
+333347,0,2,Oklahoma,West Virginia,2014-03-05,2014
+333364,0,3,Connecticut,Rutgers,2014-03-05,2014
+333372,0,3,New Mexico,Air Force,2014-03-05,2014
+333379,0,3,Texas,TCU,2014-03-05,2014
+333356,0,4,Arkansas,Mississippi,2014-03-05,2014
+333346,0,4,Kansas,Texas Tech,2014-03-05,2014
+333351,0,4,Missouri,Texas A&M,2014-03-05,2014
+333357,0,4,Tennessee,Auburn,2014-03-05,2014
+333348,0,4,Wisconsin,Purdue,2014-03-05,2014
+333362,1,1,Charleston Southern,Campbell,2014-03-05,2014
+333370,1,1,Winthrop,Liberty,2014-03-05,2014
+333361,1,2,Army,Bucknell,2014-03-05,2014
+333360,1,2,St. Francis PA,Bryant,2014-03-05,2014
+553214,1,4,Mount St. Mary's,St. Francis NY,2014-03-05,2014
+333359,2,1,Boston University,Lafayette,2014-03-05,2014
+333373,2,1,Radford,Presbyterian,2014-03-05,2014
+333380,2,2,Utah St.,Wyoming,2014-03-05,2014
+333375,2,3,Robert Morris,Fairleigh Dickinson,2014-03-05,2014
+333366,2,3,Southeast Missouri St.,Eastern Illinois,2014-03-05,2014
+333377,3,1,Tennessee Tech,SIU Edwardsville,2014-03-05,2014
+333365,3,2,UMass Lowell,Duquesne,2014-03-05,2014
+333378,4,0,Colorado,Stanford,2014-03-05,2014
+333354,4,0,Wake Forest,Duke,2014-03-05,2014
+333367,4,1,Gardner Webb,Longwood,2014-03-05,2014
+333381,4,1,Wagner,Central Connecticut,2014-03-05,2014
+333355,4,2,American,Colgate,2014-03-05,2014
+333358,4,2,Nevada,Boise St.,2014-03-05,2014
+333363,4,3,Colorado St.,San Jose St.,2014-03-05,2014
+333374,4,3,Rhode Island,Fordham,2014-03-05,2014
+333368,4,4,Georgia,Mississippi St.,2014-03-05,2014
+333369,4,4,Holy Cross,Lehigh,2014-03-05,2014
+333350,4,4,Nebraska,Indiana,2014-03-05,2014
+333395,0,0,Cincinnati,Memphis,2014-03-06,2014
+333382,0,0,Michigan St.,Iowa,2014-03-06,2014
+333383,0,0,Villanova,Xavier,2014-03-06,2014
+333416,0,1,New Mexico St.,Grand Canyon,2014-03-06,2014
+333439,0,2,UCLA,Washington,2014-03-06,2014
+333425,0,3,Louisiana Tech,Rice,2014-03-06,2014
+333390,0,3,UC Irvine,Cal St. Fullerton,2014-03-06,2014
+333438,0,4,LSU,Vanderbilt,2014-03-06,2014
+333412,0,4,Mercer,USC Upstate,2014-03-06,2014
+333417,0,4,North Carolina Central,Norfolk St.,2014-03-06,2014
+333433,0,4,Stephen F. Austin,Oral Roberts,2014-03-06,2014
+333393,0,4,UC Santa Barbara,Hawaii,2014-03-06,2014
+333426,0,4,VCU,Richmond,2014-03-06,2014
+333399,1,1,Eastern Washington,Idaho St.,2014-03-06,2014
+333419,1,1,Northern Arizona,Montana St.,2014-03-06,2014
+333424,1,2,Portland St.,Weber St.,2014-03-06,2014
+333394,1,3,Idaho,Chicago St.,2014-03-06,2014
+553215,1,3,Loyola Chicago,Bradley,2014-03-06,2014
+333421,1,3,Northwestern St.,Central Arkansas,2014-03-06,2014
+333414,1,3,Rider,Monmouth,2014-03-06,2014
+333436,1,3,UT Arlington,Troy,2014-03-06,2014
+333391,1,4,Cal St. Northridge,Long Beach St.,2014-03-06,2014
+333427,2,1,Montana,Sacramento St.,2014-03-06,2014
+333398,2,2,Eastern Kentucky,Southeast Missouri St.,2014-03-06,2014
+333388,2,3,Arkansas St.,Louisiana Monroe,2014-03-06,2014
+333432,3,1,Southern Utah,North Dakota,2014-03-06,2014
+333392,3,1,UC Riverside,UC Davis,2014-03-06,2014
+333384,3,3,Alabama A&M,Jackson St.,2014-03-06,2014
+333386,3,3,Alabama St.,Grambling St.,2014-03-06,2014
+333400,3,3,Bethune Cookman,Florida A&M,2014-03-06,2014
+333407,3,3,Lamar,New Orleans,2014-03-06,2014
+333411,3,3,Maryland Eastern Shore,Delaware St.,2014-03-06,2014
+333405,3,3,Morgan St.,Howard,2014-03-06,2014
+333409,3,3,Niagara,Marist,2014-03-06,2014
+333404,3,3,Nicholls St.,Houston Baptist,2014-03-06,2014
+553216,3,3,Saint Peter's,Fairfield,2014-03-06,2014
+333429,3,3,Savannah St.,South Carolina St.,2014-03-06,2014
+333430,3,3,South Alabama,Texas St.,2014-03-06,2014
+333413,3,3,UMKC,Seattle,2014-03-06,2014
+333408,3,4,Loyola Marymount,Portland,2014-03-06,2014
+333422,4,1,Old Dominion,East Carolina,2014-03-06,2014
+333428,4,1,Sam Houston St.,Southeastern Louisiana,2014-03-06,2014
+333397,4,2,Evansville,Drake,2014-03-06,2014
+333396,4,3,Butler,DePaul,2014-03-06,2014
+333410,4,3,Charlotte,Marshall,2014-03-06,2014
+333401,4,3,FIU,Florida Atlantic,2014-03-06,2014
+333403,4,3,Hampton,North Carolina A&T,2014-03-06,2014
+333415,4,3,Morehead St.,Tennessee Tech,2014-03-06,2014
+333431,4,3,Southern,Prairie View A&M,2014-03-06,2014
+333437,4,3,Southern Miss,Tulane,2014-03-06,2014
+333434,4,3,Texas A&M Corpus Chris,McNeese St.,2014-03-06,2014
+333387,4,3,Texas Southern,Alcorn St.,2014-03-06,2014
+333440,4,3,USC,Washington St.,2014-03-06,2014
+333435,4,3,UTEP,UTSA,2014-03-06,2014
+333402,4,4,Florida Gulf Coast,East Tennessee St.,2014-03-06,2014
+333406,4,4,George Mason,La Salle,2014-03-06,2014
+333385,4,4,Middle Tennessee,UAB,2014-03-06,2014
+333420,4,4,Penn St.,Northwestern,2014-03-06,2014
+333423,4,4,Santa Clara,Pacific,2014-03-06,2014
+333418,4,4,Tulsa,North Texas,2014-03-06,2014
+333441,4,4,Western Kentucky,Louisiana Lafayette,2014-03-06,2014
+333465,0,4,Harvard,Yale,2014-03-07,2014
+333453,0,4,Wichita St.,Evansville,2014-03-07,2014
+333454,1,1,Georgia Southern,Furman,2014-03-07,2014
+333456,1,1,Winthrop,High Point,2014-03-07,2014
+333461,1,2,UNC Asheville,Radford,2014-03-07,2014
+333443,1,3,Samford,Appalachian St.,2014-03-07,2014
+333448,1,3,The Citadel,UNC Greensboro,2014-03-07,2014
+333451,2,1,Princeton,Cornell,2014-03-07,2014
+333452,2,2,Eastern Kentucky,Murray St.,2014-03-07,2014
+333444,2,4,Belmont,Morehead St.,2014-03-07,2014
+333455,2,4,VMI,Gardner Webb,2014-03-07,2014
+333457,3,3,Hofstra,UNC Wilmington,2014-03-07,2014
+333445,3,4,Dartmouth,Brown,2014-03-07,2014
+333449,4,1,Coastal Carolina,Charleston Southern,2014-03-07,2014
+553217,4,1,Indiana St.,Loyola Chicago,2014-03-07,2014
+333447,4,1,Western Michigan,Central Michigan,2014-03-07,2014
+333463,4,1,Wright St.,Oakland,2014-03-07,2014
+333462,4,2,Southern Illinois,Northern Iowa,2014-03-07,2014
+333446,4,2,UCF,Houston,2014-03-07,2014
+333450,4,3,Columbia,Penn,2014-03-07,2014
+333464,4,3,Utah Valley,Cal St. Bakersfield,2014-03-07,2014
+333442,4,4,Akron,Kent St.,2014-03-07,2014
+333460,4,4,Milwaukee,Valparaiso,2014-03-07,2014
+333458,4,4,Missouri St.,Illinois St.,2014-03-07,2014
+333510,0,0,Creighton,Providence,2014-03-08,2014
+333467,0,0,Duke,North Carolina,2014-03-08,2014
+333471,0,0,Florida,Kentucky,2014-03-08,2014
+333478,0,0,Iowa St.,Oklahoma St.,2014-03-08,2014
+333475,0,0,Louisville,Connecticut,2014-03-08,2014
+333480,0,0,Memphis,SMU,2014-03-08,2014
+333468,0,0,Oregon,Arizona,2014-03-08,2014
+333504,0,0,Pittsburgh,Clemson,2014-03-08,2014
+333551,0,0,San Diego St.,New Mexico,2014-03-08,2014
+333472,0,0,Stanford,Utah,2014-03-08,2014
+333558,0,0,Tennessee,Missouri,2014-03-08,2014
+553222,0,1,Ohio,Miami OH,2014-03-08,2014
+333499,0,1,UC Irvine,UC Davis,2014-03-08,2014
+553223,0,2,Saint Mary's,Pepperdine,2014-03-08,2014
+333495,0,3,BYU,Loyola Marymount,2014-03-08,2014
+333547,0,3,Cincinnati,Rutgers,2014-03-08,2014
+333513,0,3,Delaware,Hofstra,2014-03-08,2014
+333517,0,3,George Washington,Fordham,2014-03-08,2014
+333470,0,3,Oklahoma,TCU,2014-03-08,2014
+333557,0,3,Stephen F. Austin,Central Arkansas,2014-03-08,2014
+333528,0,3,Towson,James Madison,2014-03-08,2014
+333538,0,3,Vermont,New Hampshire,2014-03-08,2014
+333477,0,4,Baylor,Kansas St.,2014-03-08,2014
+333479,0,4,California,Colorado,2014-03-08,2014
+333512,0,4,Dayton,Richmond,2014-03-08,2014
+333521,0,4,Gonzaga,Santa Clara,2014-03-08,2014
+333496,0,4,Harvard,Brown,2014-03-08,2014
+333473,0,4,Michigan,Indiana,2014-03-08,2014
+553221,0,4,St. John's,Marquette,2014-03-08,2014
+333498,0,4,UC Santa Barbara,Cal Poly,2014-03-08,2014
+333564,0,4,VCU,St. Bonaventure,2014-03-08,2014
+333469,0,4,Villanova,Georgetown,2014-03-08,2014
+333536,0,4,Wichita St.,Missouri St.,2014-03-08,2014
+333545,1,1,Portland St.,Idaho St.,2014-03-08,2014
+333548,1,1,Sacramento St.,Montana St.,2014-03-08,2014
+333540,1,1,Winthrop,UNC Asheville,2014-03-08,2014
+333541,1,2,Northern Arizona,Montana,2014-03-08,2014
+333501,1,3,Georgia Southern,Chattanooga,2014-03-08,2014
+333560,1,3,Grand Canyon,UT Rio Grande Valley,2014-03-08,2014
+333535,1,3,Idaho,UMKC,2014-03-08,2014
+333482,1,3,Incarnate Word,Abilene Christian,2014-03-08,2014
+333556,1,3,Northern Colorado,Southern Utah,2014-03-08,2014
+333529,1,3,Southeastern Louisiana,Lamar,2014-03-08,2014
+333554,1,3,Temple,South Florida,2014-03-08,2014
+553224,1,4,Mount St. Mary's,Wagner,2014-03-08,2014
+333543,1,4,Northwestern St.,Oral Roberts,2014-03-08,2014
+333544,2,0,Oregon St.,Arizona St.,2014-03-08,2014
+333466,2,0,West Virginia,Kansas,2014-03-08,2014
+333494,2,1,Boston University,Army,2014-03-08,2014
+333511,2,1,Davidson,Samford,2014-03-08,2014
+333527,2,1,IPFW,IUPUI,2014-03-08,2014
+333526,2,1,Iona,Rider,2014-03-08,2014
+333546,2,1,Robert Morris,St. Francis PA,2014-03-08,2014
+333515,2,1,Weber St.,Eastern Washington,2014-03-08,2014
+333492,2,2,Eastern Kentucky,Belmont,2014-03-08,2014
+333552,2,3,Fresno St.,San Jose St.,2014-03-08,2014
+333493,2,3,Hartford,Binghamton,2014-03-08,2014
+333500,2,4,Canisius,Siena,2014-03-08,2014
+333518,2,4,Duquesne,George Mason,2014-03-08,2014
+333519,2,4,Georgia St.,Western Kentucky,2014-03-08,2014
+333508,2,4,Princeton,Columbia,2014-03-08,2014
+333550,2,4,San Francisco,San Diego,2014-03-08,2014
+333562,2,4,Toledo,Eastern Michigan,2014-03-08,2014
+333565,2,4,Washington,USC,2014-03-08,2014
+333507,2,4,William & Mary,College of Charleston,2014-03-08,2014
+333567,2,4,Wyoming,Colorado St.,2014-03-08,2014
+333566,3,0,Washington St.,UCLA,2014-03-08,2014
+333509,3,1,Penn,Cornell,2014-03-08,2014
+333553,3,1,South Alabama,UT Arlington,2014-03-08,2014
+333483,3,2,Air Force,Boise St.,2014-03-08,2014
+333516,3,2,Western Carolina,Elon,2014-03-08,2014
+333485,3,3,Alabama A&M,Grambling St.,2014-03-08,2014
+333486,3,3,Alabama St.,Jackson St.,2014-03-08,2014
+333487,3,3,Alcorn St.,Prairie View A&M,2014-03-08,2014
+333490,3,3,Arkansas Pine Bluff,Mississippi Valley St.,2014-03-08,2014
+333502,3,3,Chicago St.,Seattle,2014-03-08,2014
+333489,3,3,Louisiana Monroe,Arkansas Little Rock,2014-03-08,2014
+333524,3,3,McNeese St.,Houston Baptist,2014-03-08,2014
+333542,3,3,Northern Illinois,Ball St.,2014-03-08,2014
+333563,3,3,Troy,Texas St.,2014-03-08,2014
+333568,3,4,Dartmouth,Yale,2014-03-08,2014
+333514,3,4,Northeastern,Drexel,2014-03-08,2014
+333484,4,0,Alabama,Arkansas,2014-03-08,2014
+333531,4,0,Georgia,LSU,2014-03-08,2014
+333481,4,0,Illinois,Iowa,2014-03-08,2014
+333537,4,0,Nevada,UNLV,2014-03-08,2014
+333561,4,0,Texas Tech,Texas,2014-03-08,2014
+333532,4,1,Stony Brook,Maine,2014-03-08,2014
+333503,4,1,Wofford,The Citadel,2014-03-08,2014
+333476,4,2,Butler,Seton Hall,2014-03-08,2014
+333506,4,2,Coastal Carolina,VMI,2014-03-08,2014
+333491,4,2,Louisiana Lafayette,Arkansas St.,2014-03-08,2014
+553219,4,3,Albany,UMBC,2014-03-08,2014
+333497,4,3,Buffalo,Bowling Green,2014-03-08,2014
+333523,4,3,Hawaii,Cal St. Fullerton,2014-03-08,2014
+333530,4,3,Long Beach St.,UC Riverside,2014-03-08,2014
+553220,4,3,Manhattan,Saint Peter's,2014-03-08,2014
+333539,4,3,Quinnipiac,Niagara,2014-03-08,2014
+333549,4,3,Sam Houston St.,New Orleans,2014-03-08,2014
+333559,4,3,Texas A&M Corpus Chris,Nicholls St.,2014-03-08,2014
+333488,4,4,American,Holy Cross,2014-03-08,2014
+333474,4,4,Auburn,Texas A&M,2014-03-08,2014
+333520,4,4,Georgia Tech,Virginia Tech,2014-03-08,2014
+333525,4,4,Indiana St.,Southern Illinois,2014-03-08,2014
+553218,4,4,Miami FL,Wake Forest,2014-03-08,2014
+333522,4,4,Milwaukee,Green Bay,2014-03-08,2014
+333533,4,4,Mississippi,Vanderbilt,2014-03-08,2014
+333534,4,4,South Carolina,Mississippi St.,2014-03-08,2014
+333555,4,4,Texas Southern,Southern,2014-03-08,2014
+333505,4,4,Wright St.,Cleveland St.,2014-03-08,2014
+333569,0,0,Ohio St.,Michigan St.,2014-03-09,2014
+333583,0,0,Saint Louis,Massachusetts,2014-03-09,2014
+333578,0,0,Syracuse,Florida St.,2014-03-09,2014
+333586,0,1,North Carolina St.,Boston College,2014-03-09,2014
+333575,0,3,Delaware,Northeastern,2014-03-09,2014
+333583,0,3,Saint Louis,UMass Lowell,2014-03-09,2014
+333577,0,4,Mercer,Florida Gulf Coast,2014-03-09,2014
+333584,0,4,Minnesota,Penn St.,2014-03-09,2014
+333581,0,4,Wichita St.,Indiana St.,2014-03-09,2014
+333588,2,0,William & Mary,Towson,2014-03-09,2014
+333576,2,1,Denver,South Dakota,2014-03-09,2014
+333572,2,2,Iona,Canisius,2014-03-09,2014
+333574,3,2,Western Carolina,Davidson,2014-03-09,2014
+553225,4,0,Albany,Vermont,2014-03-09,2014
+553226,4,0,La Salle,Saint Joseph's,2014-03-09,2014
+333570,4,0,Maryland,Virginia,2014-03-09,2014
+333585,4,0,Nebraska,Wisconsin,2014-03-09,2014
+333573,4,1,Coastal Carolina,Winthrop,2014-03-09,2014
+333579,4,1,Wofford,Georgia Southern,2014-03-09,2014
+333580,4,2,Stony Brook,Hartford,2014-03-09,2014
+333587,4,3,South Dakota St.,Western Illinois,2014-03-09,2014
+333582,4,4,Manhattan,Quinnipiac,2014-03-09,2014
+333571,4,4,Northwestern,Purdue,2014-03-09,2014
+553227,0,0,Gonzaga,Saint Mary's,2014-03-10,2014
+333589,0,2,BYU,San Francisco,2014-03-10,2014
+333590,0,2,Delaware,William & Mary,2014-03-10,2014
+333597,0,3,Ohio,Ball St.,2014-03-10,2014
+553228,1,4,Miami OH,Kent St.,2014-03-10,2014
+333591,2,2,North Dakota St.,Denver,2014-03-10,2014
+333594,2,4,IPFW,South Dakota St.,2014-03-10,2014
+333596,3,3,Northern Illinois,Bowling Green,2014-03-10,2014
+333598,3,3,Savannah St.,South Carolina St.,2014-03-10,2014
+333592,4,1,Eastern Michigan,Central Michigan,2014-03-10,2014
+333593,4,2,Manhattan,Iona,2014-03-10,2014
+333595,4,3,Norfolk St.,Maryland Eastern Shore,2014-03-10,2014
+333599,4,3,Wofford,Western Carolina,2014-03-10,2014
+333601,0,0,Gonzaga,BYU,2014-03-11,2014
+553229,1,2,Mount St. Mary's,Robert Morris,2014-03-11,2014
+333603,1,3,East Carolina,UTSA,2014-03-11,2014
+333607,2,2,North Dakota St.,IPFW,2014-03-11,2014
+333610,2,3,Princeton,Penn,2014-03-11,2014
+333600,3,3,Coppin St.,Bethune Cookman,2014-03-11,2014
+333602,3,3,Florida A&M,Delaware St.,2014-03-11,2014
+333605,3,3,Grambling St.,Jackson St.,2014-03-11,2014
+333606,3,3,Howard,North Carolina A&T,2014-03-11,2014
+333604,3,3,Marshall,Florida Atlantic,2014-03-11,2014
+333608,3,3,Prairie View A&M,Mississippi Valley St.,2014-03-11,2014
+333609,4,3,North Texas,Rice,2014-03-11,2014
+333611,4,4,Milwaukee,Wright St.,2014-03-11,2014
+553231,0,1,Ohio,Miami OH,2014-03-12,2014
+333612,0,2,Oregon,Oregon St.,2014-03-12,2014
+333613,0,2,Utah,Washington,2014-03-12,2014
+333615,0,3,Baylor,TCU,2014-03-12,2014
+333630,0,3,North Carolina Central,Howard,2014-03-12,2014
+333640,0,3,Stanford,Washington St.,2014-03-12,2014
+333637,0,4,Oklahoma St.,Texas Tech,2014-03-12,2014
+333619,2,3,Boise St.,San Jose St.,2014-03-12,2014
+333616,2,3,Fresno St.,Air Force,2014-03-12,2014
+333614,2,4,Seton Hall,Butler,2014-03-12,2014
+333624,2,4,Utah St.,Colorado St.,2014-03-12,2014
+333634,3,1,Nicholls St.,Southeastern Louisiana,2014-03-12,2014
+333639,3,3,Rutgers,South Florida,2014-03-12,2014
+333625,3,4,Coppin St.,Hampton,2014-03-12,2014
+333626,3,4,DePaul,Georgetown,2014-03-12,2014
+333628,3,4,Fordham,George Mason,2014-03-12,2014
+333638,3,4,Prairie View A&M,Southern,2014-03-12,2014
+333635,3,4,Tulane,North Texas,2014-03-12,2014
+333620,4,1,Georgia Tech,Boston College,2014-03-12,2014
+333622,4,1,UCF,Temple,2014-03-12,2014
+333641,4,1,UTEP,East Carolina,2014-03-12,2014
+333621,4,2,American,Boston University,2014-03-12,2014
+333636,4,2,Wake Forest,Notre Dame,2014-03-12,2014
+333627,4,3,Eastern Michigan,Northern Illinois,2014-03-12,2014
+333631,4,3,Old Dominion,Marshall,2014-03-12,2014
+333632,4,3,Oral Roberts,McNeese St.,2014-03-12,2014
+333629,4,3,Texas Southern,Grambling St.,2014-03-12,2014
+333617,4,4,Charlotte,UAB,2014-03-12,2014
+333623,4,4,Colorado,USC,2014-03-12,2014
+553230,4,4,Miami FL,Virginia Tech,2014-03-12,2014
+333633,4,4,Mississippi St.,Vanderbilt,2014-03-12,2014
+333618,4,4,South Carolina,Auburn,2014-03-12,2014
+333649,0,0,Arizona,Utah,2014-03-13,2014
+333645,0,0,Baylor,Oklahoma,2014-03-13,2014
+333675,0,0,Connecticut,Memphis,2014-03-13,2014
+333642,0,0,Kansas,Oklahoma St.,2014-03-13,2014
+553233,0,0,Providence,St. John's,2014-03-13,2014
+333662,0,0,Stanford,Arizona St.,2014-03-13,2014
+333643,0,0,UCLA,Oregon,2014-03-13,2014
+333680,0,2,New Mexico,Fresno St.,2014-03-13,2014
+333697,0,2,San Diego St.,Utah St.,2014-03-13,2014
+333646,0,2,Texas,West Virginia,2014-03-13,2014
+333689,0,2,UNLV,Wyoming,2014-03-13,2014
+333676,0,3,Creighton,DePaul,2014-03-13,2014
+333677,0,3,Dayton,Fordham,2014-03-13,2014
+333652,0,3,Louisville,Rutgers,2014-03-13,2014
+333690,0,3,New Mexico St.,Seattle,2014-03-13,2014
+333671,0,3,UC Irvine,UC Riverside,2014-03-13,2014
+333672,0,4,Cincinnati,UCF,2014-03-13,2014
+333674,0,4,Clemson,Georgia Tech,2014-03-13,2014
+333653,0,4,Florida St.,Maryland,2014-03-13,2014
+333654,0,4,Iowa St.,Kansas St.,2014-03-13,2014
+333659,0,4,LSU,Alabama,2014-03-13,2014
+333673,0,4,Louisiana Tech,Charlotte,2014-03-13,2014
+333684,0,4,Massachusetts,Rhode Island,2014-03-13,2014
+333686,0,4,Minnesota,Penn St.,2014-03-13,2014
+333651,0,4,Missouri,Texas A&M,2014-03-13,2014
+553232,0,4,North Carolina St.,Miami FL,2014-03-13,2014
+333648,0,4,Ohio St.,Purdue,2014-03-13,2014
+333696,0,4,Pittsburgh,Wake Forest,2014-03-13,2014
+333647,0,4,Xavier,Marquette,2014-03-13,2014
+333693,1,1,North Dakota,Sacramento St.,2014-03-13,2014
+333694,1,1,Northern Colorado,Northern Arizona,2014-03-13,2014
+333688,1,2,Portland St.,Montana,2014-03-13,2014
+333681,1,3,Idaho,UMKC,2014-03-13,2014
+333691,1,3,Northwestern St.,Nicholls St.,2014-03-13,2014
+333683,1,3,UT Arlington,Louisiana Monroe,2014-03-13,2014
+333670,1,4,Cal St. Northridge,Hawaii,2014-03-13,2014
+333656,2,0,Houston,SMU,2014-03-13,2014
+333644,2,0,Seton Hall,Villanova,2014-03-13,2014
+333665,2,4,Boise St.,Nevada,2014-03-13,2014
+333660,3,3,Alabama A&M,Arkansas Pine Bluff,2014-03-13,2014
+333661,3,3,Alabama St.,Alcorn St.,2014-03-13,2014
+333664,3,3,Arkansas Little Rock,Troy,2014-03-13,2014
+333668,3,3,Cal St. Bakersfield,Chicago St.,2014-03-13,2014
+333679,3,3,Morgan St.,Florida A&M,2014-03-13,2014
+333684,3,4,UMass Lowell,Rhode Island,2014-03-13,2014
+333658,4,0,Akron,Ohio,2014-03-13,2014
+333667,4,0,Cal Poly,UC Santa Barbara,2014-03-13,2014
+333655,4,0,Colorado,California,2014-03-13,2014
+333657,4,0,Northwestern,Iowa,2014-03-13,2014
+333663,4,0,South Carolina,Arkansas,2014-03-13,2014
+333678,4,2,Richmond,Duquesne,2014-03-13,2014
+333669,4,3,Long Beach St.,Cal St. Fullerton,2014-03-13,2014
+333692,4,3,Norfolk St.,Savannah St.,2014-03-13,2014
+333700,4,3,Tulsa,Tulane,2014-03-13,2014
+333699,4,3,Utah Valley,UT Rio Grande Valley,2014-03-13,2014
+333666,4,4,Eastern Michigan,Buffalo,2014-03-13,2014
+333650,4,4,Illinois,Indiana,2014-03-13,2014
+333685,4,4,Middle Tennessee,Old Dominion,2014-03-13,2014
+333687,4,4,Mississippi,Mississippi St.,2014-03-13,2014
+333695,4,4,Sam Houston St.,Oral Roberts,2014-03-13,2014
+333698,4,4,Southern Miss,UTEP,2014-03-13,2014
+333682,4,4,St. Bonaventure,La Salle,2014-03-13,2014
+333711,0,0,Baylor,Texas,2014-03-14,2014
+333720,0,0,Connecticut,Cincinnati,2014-03-14,2014
+333705,0,0,Creighton,Xavier,2014-03-14,2014
+333709,0,0,Duke,Clemson,2014-03-14,2014
+333723,0,0,Florida,Missouri,2014-03-14,2014
+333724,0,0,George Washington,Massachusetts,2014-03-14,2014
+333701,0,0,Iowa St.,Kansas,2014-03-14,2014
+333706,0,0,Kentucky,LSU,2014-03-14,2014
+333735,0,0,North Carolina St.,Syracuse,2014-03-14,2014
+333703,0,0,Pittsburgh,North Carolina,2014-03-14,2014
+553234,0,0,Saint Joseph's,Dayton,2014-03-14,2014
+333733,0,0,San Diego St.,UNLV,2014-03-14,2014
+333742,0,0,UCLA,Stanford,2014-03-14,2014
+333704,0,0,Virginia,Florida St.,2014-03-14,2014
+333731,0,0,Wisconsin,Minnesota,2014-03-14,2014
+333737,0,1,Stephen F. Austin,Northwestern St.,2014-03-14,2014
+333707,0,2,Louisville,Houston,2014-03-14,2014
+333716,0,2,New Mexico,Boise St.,2014-03-14,2014
+333710,0,2,Providence,Seton Hall,2014-03-14,2014
+333724,0,3,George Washington,UMass Lowell,2014-03-14,2014
+333718,0,3,New Mexico St.,Cal St. Bakersfield,2014-03-14,2014
+333708,0,4,Arizona,Colorado,2014-03-14,2014
+333729,0,4,Louisiana Tech,Southern Miss,2014-03-14,2014
+333727,0,4,Michigan,Illinois,2014-03-14,2014
+333702,0,4,Michigan St.,Northwestern,2014-03-14,2014
+333734,0,4,North Carolina Central,Norfolk St.,2014-03-14,2014
+333732,0,4,Ohio St.,Nebraska,2014-03-14,2014
+333741,0,4,Tennessee,South Carolina,2014-03-14,2014
+333738,0,4,VCU,Richmond,2014-03-14,2014
+333736,1,1,North Dakota,Portland St.,2014-03-14,2014
+333719,1,4,Cal St. Northridge,Long Beach St.,2014-03-14,2014
+333726,1,4,Idaho,Utah Valley,2014-03-14,2014
+333743,2,1,Weber St.,Northern Colorado,2014-03-14,2014
+333715,2,3,Arkansas St.,Arkansas Little Rock,2014-03-14,2014
+333722,2,4,Toledo,Eastern Michigan,2014-03-14,2014
+333721,3,3,Morgan St.,Coppin St.,2014-03-14,2014
+333713,3,3,Prairie View A&M,Alabama A&M,2014-03-14,2014
+333717,4,0,Cal Poly,UC Irvine,2014-03-14,2014
+333739,4,0,St. Bonaventure,Saint Louis,2014-03-14,2014
+333728,4,1,Louisiana Lafayette,UT Arlington,2014-03-14,2014
+333714,4,3,Texas Southern,Alabama St.,2014-03-14,2014
+333725,4,4,Georgia,Mississippi,2014-03-14,2014
+333740,4,4,Sam Houston St.,Texas A&M Corpus Chris,2014-03-14,2014
+333730,4,4,Tulsa,Middle Tennessee,2014-03-14,2014
+333712,4,4,Western Michigan,Akron,2014-03-14,2014
+333749,0,0,Duke,North Carolina St.,2014-03-15,2014
+333754,0,0,Florida,Tennessee,2014-03-15,2014
+333750,0,0,Iowa St.,Baylor,2014-03-15,2014
+333747,0,0,Louisville,Connecticut,2014-03-15,2014
+333759,0,0,Michigan,Ohio St.,2014-03-15,2014
+333744,0,0,Michigan St.,Wisconsin,2014-03-15,2014
+333761,0,0,New Mexico,San Diego St.,2014-03-15,2014
+333753,0,0,Providence,Creighton,2014-03-15,2014
+333748,0,0,UCLA,Arizona,2014-03-15,2014
+333755,0,0,VCU,George Washington,2014-03-15,2014
+333745,0,0,Virginia,Pittsburgh,2014-03-15,2014
+333756,0,1,New Mexico St.,Idaho,2014-03-15,2014
+333760,0,3,North Carolina Central,Morgan St.,2014-03-15,2014
+333746,0,4,Kentucky,Georgia,2014-03-15,2014
+553235,0,4,Saint Joseph's,St. Bonaventure,2014-03-15,2014
+333764,0,4,Stephen F. Austin,Sam Houston St.,2014-03-15,2014
+333762,2,1,Weber St.,North Dakota,2014-03-15,2014
+333751,2,2,Georgia St.,Arkansas St.,2014-03-15,2014
+333758,4,0,Tulsa,Louisiana Tech,2014-03-15,2014
+333752,4,1,Cal Poly,Cal St. Northridge,2014-03-15,2014
+333766,4,2,Western Michigan,Toledo,2014-03-15,2014
+333763,4,3,Texas Southern,Prairie View A&M,2014-03-15,2014
+553236,4,4,Albany,Stony Brook,2014-03-15,2014
+333757,4,4,Louisiana Lafayette,Western Kentucky,2014-03-15,2014
+333769,0,0,Florida,Kentucky,2014-03-16,2014
+333767,0,0,Michigan St.,Michigan,2014-03-16,2014
+553237,0,0,Saint Joseph's,VCU,2014-03-16,2014
+333768,0,0,Virginia,Duke,2014-03-16,2014
+333770,4,2,Louisiana Lafayette,Georgia St.,2014-03-16,2014
+333771,4,4,Holy Cross,Brown,2014-03-17,2014
+333773,0,0,North Carolina St.,Xavier,2014-03-18,2014
+553238,0,0,Saint Mary's,Utah,2014-03-18,2014
+333782,0,1,Minnesota,High Point,2014-03-18,2014
+333776,0,2,Clemson,Georgia St.,2014-03-18,2014
+333783,0,2,Missouri,Davidson,2014-03-18,2014
+333774,0,4,Arkansas,Indiana St.,2014-03-18,2014
+333780,0,4,Florida St.,Florida Gulf Coast,2014-03-18,2014
+553240,2,0,Robert Morris,St. John's,2014-03-18,2014
+333775,2,2,VMI,Canisius,2014-03-18,2014
+333781,2,4,Belmont,Green Bay,2014-03-18,2014
+553239,4,1,Albany,Mount St. Mary's,2014-03-18,2014
+333785,4,1,San Diego,Portland St.,2014-03-18,2014
+333777,4,1,Wright St.,East Carolina,2014-03-18,2014
+333772,4,2,Georgetown,West Virginia,2014-03-18,2014
+333778,4,3,East Tennessee St.,Chattanooga,2014-03-18,2014
+333784,4,3,Sam Houston St.,Alabama St.,2014-03-18,2014
+333787,4,4,Columbia,Valparaiso,2014-03-18,2014
+333779,4,4,Eastern Michigan,Norfolk St.,2014-03-18,2014
+333786,4,4,Siena,Stony Brook,2014-03-18,2014
+333790,0,0,SMU,UC Irvine,2014-03-19,2014
+333791,0,0,Tennessee,Iowa,2014-03-19,2014
+333806,0,2,LSU,San Francisco,2014-03-19,2014
+333798,0,2,Louisiana Tech,Iona,2014-03-19,2014
+333789,0,4,California,Utah Valley,2014-03-19,2014
+333802,0,4,Ohio,Cleveland St.,2014-03-19,2014
+333807,0,4,Towson,USC Upstate,2014-03-19,2014
+333800,1,1,Nebraska Omaha,North Dakota,2014-03-19,2014
+333804,2,2,Radford,Oregon St.,2014-03-19,2014
+333810,2,3,Princeton,Tulane,2014-03-19,2014
+333809,2,4,Fresno St.,UTEP,2014-03-19,2014
+333797,2,4,IPFW,Akron,2014-03-19,2014
+333799,2,4,Murray St.,Missouri St.,2014-03-19,2014
+333794,4,0,Georgia,Vermont,2014-03-19,2014
+333795,4,1,Pacific,Grand Canyon,2014-03-19,2014
+333801,4,1,Texas A&M Corpus Chris,Northern Colorado,2014-03-19,2014
+333792,4,2,Illinois,Boston University,2014-03-19,2014
+333808,4,2,Southern Miss,Toledo,2014-03-19,2014
+333788,4,2,Texas A&M,Wyoming,2014-03-19,2014
+333793,4,4,Cal Poly,Texas Southern,2014-03-19,2014
+333796,4,4,Illinois St.,Morehead St.,2014-03-19,2014
+333803,4,4,Old Dominion,South Dakota St.,2014-03-19,2014
+333805,4,4,Penn St.,Hampton,2014-03-19,2014
+333811,4,4,Yale,Quinnipiac,2014-03-19,2014
+553242,0,0,Connecticut,Saint Joseph's,2014-03-20,2014
+333821,0,0,Dayton,Ohio St.,2014-03-20,2014
+333819,0,0,Harvard,Cincinnati,2014-03-20,2014
+333812,0,0,Michigan St.,Delaware,2014-03-20,2014
+333813,0,0,Oregon,BYU,2014-03-20,2014
+333824,0,0,Saint Louis,North Carolina St.,2014-03-20,2014
+333823,0,0,San Diego St.,New Mexico St.,2014-03-20,2014
+333818,0,0,Texas,Arizona St.,2014-03-20,2014
+553241,0,4,Florida,Albany,2014-03-20,2014
+333816,0,4,Louisville,Manhattan,2014-03-20,2014
+333822,0,4,Michigan,Wofford,2014-03-20,2014
+333820,0,4,Pittsburgh,Colorado,2014-03-20,2014
+333825,0,4,Syracuse,Western Michigan,2014-03-20,2014
+333814,0,4,Villanova,Milwaukee,2014-03-20,2014
+333817,0,4,Wisconsin,American,2014-03-20,2014
+333815,2,0,North Dakota St.,Oklahoma,2014-03-20,2014
+333839,0,0,Gonzaga,Oklahoma St.,2014-03-21,2014
+333833,0,0,Iowa St.,North Carolina Central,2014-03-21,2014
+333838,0,0,Memphis,George Washington,2014-03-21,2014
+333831,0,0,Mercer,Duke,2014-03-21,2014
+333827,0,0,North Carolina,Providence,2014-03-21,2014
+333841,0,0,Stanford,New Mexico,2014-03-21,2014
+333842,0,0,Stephen F. Austin,VCU,2014-03-21,2014
+333840,0,0,Tennessee,Massachusetts,2014-03-21,2014
+333830,0,2,Arizona,Weber St.,2014-03-21,2014
+333826,0,2,Kansas,Eastern Kentucky,2014-03-21,2014
+333840,0,3,Tennessee,UMass Lowell,2014-03-21,2014
+333832,0,4,Baylor,Nebraska,2014-03-21,2014
+333836,0,4,Creighton,Louisiana Lafayette,2014-03-21,2014
+333829,0,4,Kentucky,Kansas St.,2014-03-21,2014
+333837,0,4,Towson,East Tennessee St.,2014-03-21,2014
+333843,0,4,UCLA,Tulsa,2014-03-21,2014
+333828,0,4,Virginia,Coastal Carolina,2014-03-21,2014
+333835,0,4,Wichita St.,Cal Poly,2014-03-21,2014
+333834,2,2,Belmont,Robert Morris,2014-03-21,2014
+333846,0,0,Connecticut,Villanova,2014-03-22,2014
+333849,0,0,Dayton,Syracuse,2014-03-22,2014
+333850,0,0,Florida,Pittsburgh,2014-03-22,2014
+333847,0,0,Louisville,Saint Louis,2014-03-22,2014
+333853,0,0,Michigan,Texas,2014-03-22,2014
+333844,0,0,Michigan St.,Harvard,2014-03-22,2014
+333845,0,0,Wisconsin,Oregon,2014-03-22,2014
+333854,0,2,San Diego St.,North Dakota St.,2014-03-22,2014
+333851,0,4,Louisiana Tech,Georgia,2014-03-22,2014
+333855,0,4,Ohio,Wright St.,2014-03-22,2014
+333858,2,2,VMI,IPFW,2014-03-22,2014
+333848,4,4,Columbia,Eastern Michigan,2014-03-22,2014
+333856,4,4,Pacific,Texas A&M Corpus Chris,2014-03-22,2014
+333857,4,4,San Diego,Sam Houston St.,2014-03-22,2014
+333852,4,4,Yale,Holy Cross,2014-03-22,2014
+333863,0,0,Arizona,Gonzaga,2014-03-23,2014
+333864,0,0,Baylor,Creighton,2014-03-23,2014
+333860,0,0,Iowa St.,North Carolina,2014-03-23,2014
+333862,0,0,Kentucky,Wichita St.,2014-03-23,2014
+553243,0,0,Minnesota,Saint Mary's,2014-03-23,2014
+333859,0,0,Stanford,Kansas,2014-03-23,2014
+333866,0,0,Tennessee,Mercer,2014-03-23,2014
+333868,0,0,UCLA,Stephen F. Austin,2014-03-23,2014
+333861,0,0,Virginia,Memphis,2014-03-23,2014
+333865,0,4,Clemson,Illinois,2014-03-23,2014
+333867,4,0,Southern Miss,Missouri,2014-03-23,2014
+333870,0,0,California,Arkansas,2014-03-24,2014
+333871,0,0,SMU,LSU,2014-03-24,2014
+333872,0,4,Florida St.,Georgetown,2014-03-24,2014
+333874,2,1,Murray St.,Nebraska Omaha,2014-03-24,2014
+333873,2,2,Fresno St.,Princeton,2014-03-24,2014
+333875,4,2,Old Dominion,Radford,2014-03-24,2014
+333869,4,4,Illinois St.,Texas A&M,2014-03-24,2014
+333876,4,4,Siena,Penn St.,2014-03-24,2014
+333877,0,2,Clemson,Belmont,2014-03-25,2014
+333878,0,4,Minnesota,Southern Miss,2014-03-25,2014
+333881,0,0,Florida St.,Louisiana Tech,2014-03-26,2014
+333879,0,0,SMU,California,2014-03-26,2014
+333883,2,0,VMI,Ohio,2014-03-26,2014
+333882,2,4,Fresno St.,Old Dominion,2014-03-26,2014
+333884,4,4,Pacific,San Diego,2014-03-26,2014
+333885,4,4,Siena,Illinois St.,2014-03-26,2014
+333880,4,4,Yale,Columbia,2014-03-26,2014
+333886,0,0,Arizona,San Diego St.,2014-03-27,2014
+333888,0,0,Dayton,Stanford,2014-03-27,2014
+333889,0,0,Florida,UCLA,2014-03-27,2014
+333887,0,0,Wisconsin,Baylor,2014-03-27,2014
+333890,2,0,Murray St.,Towson,2014-03-27,2014
+333893,0,0,Connecticut,Iowa St.,2014-03-28,2014
+333892,0,0,Kentucky,Louisville,2014-03-28,2014
+333894,0,0,Michigan,Tennessee,2014-03-28,2014
+333891,0,0,Michigan St.,Virginia,2014-03-28,2014
+333896,0,0,Florida,Dayton,2014-03-29,2014
+333895,0,0,Wisconsin,Arizona,2014-03-29,2014
+333897,0,0,Connecticut,Michigan St.,2014-03-30,2014
+333898,0,0,Kentucky,Michigan,2014-03-30,2014
+333899,4,2,Siena,Fresno St.,2014-03-31,2014
+333901,0,0,Minnesota,Florida St.,2014-04-01,2014
+333900,0,0,SMU,Clemson,2014-04-01,2014
+333902,2,4,Murray St.,Pacific,2014-04-01,2014
+333903,4,2,Yale,VMI,2014-04-01,2014
+333904,2,4,Fresno St.,Siena,2014-04-02,2014
+333905,0,0,Minnesota,SMU,2014-04-03,2014
+333906,2,4,Murray St.,Yale,2014-04-03,2014
+333908,0,0,Connecticut,Florida,2014-04-05,2014
+333907,0,0,Kentucky,Wisconsin,2014-04-05,2014
+333909,4,2,Siena,Fresno St.,2014-04-05,2014
+333910,0,0,Connecticut,Kentucky,2014-04-07,2014
